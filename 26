@@ -1,0 +1,27 @@
+Create a new process by invoking the appropriate system call. Get the process identifier of the currently running process and its respective parent using system calls and display the same using a C program.
+2. Identify the system calls to copy the content of one file to another and illustrate the same using a C program.
+3. Design a CPU scheduling program with C using First Come First Served technique with the following considerations. 
+a. All processes are activated at time 0. 
+b. Assume that no process waits on I/O devices.
+4. Construct a scheduling program with C that selects the waiting process with the smallest execution time to execute next.
+5. Construct a scheduling program with C that selects the waiting process with the highest priority to execute next.
+6. Construct a C program to simulate Round Robin scheduling algorithm with C.
+7. Illustrate the concept of inter-process communication using shared memory with a C program.  
+8. Illustrate the concept of multithreading using a C program.
+9. Design a C program to simulate the concept of Dining-Philosophers problem
+10. Construct a C program for implementation of memory allocation using first fit strategy.
+11. Construct a C program to organize the file using single level directory.
+12. Design a C program to organize the file using two level directory structure.
+13. Develop a C program for implementing random access file for processing the employee details.
+14. Illustrate the deadlock avoidance concept by simulating Banker’s algorithm with C. 
+15 Construct a C program to simulate producer-consumer problem using semaphores.  
+16. Construct a C program to simulate the First in First Out paging technique of memory management.
+17. Construct a C program to simulate the Least Recently Used paging technique of memory management.
+18. Construct a C program to simulate the optimal paging technique of memory management  
+19. Consider a file system where the records of the file are stored one after another both physically and logically. A record of the file can only be accessed by reading all the previous records.  Design a C program to simulate the file allocation strategy.
+20. Consider a file system that brings all the file pointers together into an index block. The ith entry in the index block points to the ith block of the file. Design a C program to simulate the file allocation strategy.
+21. With linked allocation, each file is a linked list of disk blocks; the disk blocks may be scattered anywhere on the disk. The directory contains a pointer to the first and last blocks of the file.  Each block contains a pointer to the next block. Design a C program to simulate the file allocation strategy.
+22. Construct a C program to simulate the First Come First Served disk scheduling algorithm.  
+23. Design a C program to simulate SCAN disk scheduling algorithm.
+24.. Develop a C program to simulate C-SCAN disk scheduling algorithm.
+25. Illustrate the various File Access Permission and different types users in Linux.
